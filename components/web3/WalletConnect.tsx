@@ -1,6 +1,6 @@
 import Button from '@/components/button';
 import { EventCategory, EventName } from '@/constants/event';
-import React, { useEffect } from 'react';
+import React from 'react';
 import ReactGA from 'react-ga4';
 // import { useRecoilState } from 'recoil';
 // import { downloadClickAtom } from '@/store/web3/state';
